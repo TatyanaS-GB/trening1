@@ -36,6 +36,9 @@ git remote add origin https://github.com/TatyanaS-GB/trening1.git
 ## слияние
 ``` sh
 git push -u origin main
+```
+## Показывает все ветки
+ git branch --all
 
 ## Это репозиторий для обучения pull request
 
